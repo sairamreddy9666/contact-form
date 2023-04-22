@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(174, 137, 205);
+    
+}
+h1{
+    padding-top: 18%;
+    padding-left: 18%;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    margin-left: 18%;
+    height: 40px;
+    width: 200px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px #777 solid;
+    border-radius: 10px;
+    outline: none;
+    background-color: #3f3c91;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+}
